@@ -7,3 +7,4 @@ Homework 5 - The eternal significance of publications and citations!
 - Rahim Rahimov, rahimov.1921843@studenti.uniroma1.it, 1921843
   
 ## Files
+- main.ipynb : contains part 1,2,CLQ and AQ
