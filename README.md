@@ -9,4 +9,5 @@ Homework 5 - The eternal significance of publications and citations!
 ## Files
 - main.ipynb: notebook containing all the questions
 - Commmandline.sh: shell script for the Command Line Question 
-- graph_data.json: input file for the command line question.
+- graph_data.json: input file for the Command Line Question.
+- CommandLineResult.png: output for the Command Line Question.
