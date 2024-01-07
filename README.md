@@ -7,5 +7,6 @@ Homework 5 - The eternal significance of publications and citations!
 - Rahim Rahimov, rahimov.1921843@studenti.uniroma1.it, 1921843
   
 ## Files
-- main.ipynb : notebook with Part 1, Part 2, CLQ and AQ
-- commmandline.txt: ...
+- main.ipynb: notebook containing all the questions
+- Commmandline.sh: shell script for the Command Line Question 
+- graph_data.json: input file for the command line question.
